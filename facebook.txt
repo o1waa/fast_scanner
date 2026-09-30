@@ -1,0 +1,4 @@
+Výsledky skenování pro facebook.com (157.240.30.35)
+Čas trvání: 5.04 s
+
+Port 443/tcp - https
